@@ -7,4 +7,4 @@ Command line options:
 
 pg_winlog_repair input_log_file output_file [-utf8]
 
-Use -utf8 option for convert to UTF-8\n");
+Use -utf8 option for convert to UTF-8
